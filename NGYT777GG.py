@@ -4,10 +4,10 @@ from telethon.tl.functions.channels import GetParticipantsRequest
 from telethon.tl.types import ChannelParticipantsSearch
 
 # Your bot API details
-api_id = Your API ID   # Your API ID
-api_hash = 'Your API Has'  # Your API Hash
-bot_token = 'Bot Token' #Bot Token
-channel_username = 'NGYT777GG'  # Replace with your Target channel username
+api_id = 20284828   # Your API ID
+api_hash = 'a980ba25306901d5c9b899414d6a9ab7'  # Your API Hash
+bot_token = '8060132352:AAFWgHhvHPBU5n_OM-_uixBl-q0qm4l4_zk' #Bot Token
+channel_username = 'HMT_guri'  # Replace with your Target channel username
 # BOT MADE BY @NGYT777GG
 
 client = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
